@@ -1,0 +1,13 @@
+.container {
+  width: 77%;
+  margin: 0 auto;
+}
+
+.photosContainer {
+  display: flex;
+  flex-flow: column wrap;
+  max-height: 180vh;
+  margin-left: -8px; /* Adjustment for the gutter */
+  width: 100%;
+  //justify-content: space-between;
+}
